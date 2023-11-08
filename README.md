@@ -7,7 +7,20 @@
 	🚧 Completed 🚀 🚧
 </h4>
 
+Table of Contents
+=================
+<!--ts-->
+   * [About the project](#-about-the-project)
+   * [How to run the project](#-how-to-run-the-project)
+   * [Technologies](#-technologies)
+   * [License](#user-content--licença)
+<!--te-->
+
+## 💻 About the project
+
 <p>The challenge is to create a Dockerfile using Golang that displays the result "Full Cycle Rocks!!" when the image is executed, and it must be under 2MB in size.</p>
+
+## 🚀 How to run the project
 
 ### Prerequisites
 
@@ -22,6 +35,13 @@ After cloning this project, execute the following command:
 ```
 docker run arthur11/fullcycle-desafio-go
 ```
+
+## 🛠 Technologies
+
+The following tools were used in the project's construction:
+
+-   **[Docker](https://www.docker.com/)**
+-   **[Golang](https://go.dev/)**
 
 ## 📝 License
 
